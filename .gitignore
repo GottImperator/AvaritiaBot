@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/bin/Debug
+/src/bin/Release/netcoreapp1.1
+/.vs/AvaritiaBot/v15/sqlite3
+/src/obj
